@@ -1,5 +1,5 @@
 # Geocoding-and-Reverse-Geocoding-with-Python
-A Tutorial on Geocoding and Reverse Geocoding with Python
+Authorship Disclaimer: This tutorial titled 'Geocoding and Reverse Geocoding with Python' was originally by <a href='https://umar-yusuf.blogspot.com'>me</a> and submitted to DataCamp on "Jan 27, 2018". Since they didn't publish it on their platform, I have decided to do it here so that someone out there may find it useful.
 
 <body>
   <div tabindex="-1" id="notebook" class="border-box-sizing">
